@@ -1,2 +1,2 @@
 # Frontend_Project
-basic project using html and css
+this is a project created by using basic  html and css
