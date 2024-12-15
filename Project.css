@@ -1,0 +1,22 @@
+ header{
+    color:black;
+     background-color:tomato;  
+   
+} 
+#header-id{
+    border: 3% solid rgb(10, 72, 187);
+}
+
+/* body .header-class{
+    background-color: #E3F2FD;
+} */
+
+body{
+    color:black;
+    background-color:rgb(227, 239, 127);
+}
+
+
+footer{
+    background-color: rgb(212, 255, 71);
+}
